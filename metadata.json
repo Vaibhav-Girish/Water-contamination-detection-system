@@ -1,0 +1,5 @@
+{
+  "name": "Water Contamination Detection System",
+  "description": "A demo MVP app that simulates IoT water sensors, integrates AI/ML analytics for contamination detection, and visualizes data for both citizens and authorities.",
+  "requestFramePermissions": []
+}
